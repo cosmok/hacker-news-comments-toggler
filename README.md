@@ -1,6 +1,6 @@
 Introduction
 ------------
-As a [Bookmarklet], this allows to expand and collapse thread comments.
+As a [Bookmarklet], this allows to expand and collapse thread comments in a [Hacker News] [HN] comment page.
 
 Snapshots
 ---------

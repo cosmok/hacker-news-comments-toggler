@@ -6,9 +6,9 @@ Snapshots
 ---------
 The following snapshots show what to expect:
 
-![expanded_snap](https://github.com/cosmok/hn-comments-toggler/raw/master/snap_expanded.png "child commands expanded")
+![expanded_snap](https://github.com/cosmok/hacker-news-comments-toggler/raw/master/snap_expanded.png "child commands expanded")
 
-![collapsed_snap](https://github.com/cosmok/hn-comments-toggler/raw/master/snap_hidden.png "child comments collapsed")
+![collapsed_snap](. "child comments collapsed")
 
 [HN]: http://news.ycombinator.com
 [Bookmarklet]: http://trk7.com/hn_comments_hide.html
